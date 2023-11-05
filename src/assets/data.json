@@ -1,0 +1,120 @@
+ {
+    "products": [
+      {
+        "id": 1,
+        "title": "Product 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod nunc ut magna tincidunt, vel tincidunt quam volutpat.",
+        "price": 34000,
+        "image": "images/cat2.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "description": "Aenean convallis elit eu turpis malesuada, id laoreet elit fermentum. Suspendisse nec lectus vel elit feugiat ultrices.",
+        "price": 29.99,
+        "image": "images/cat4.jpg",
+        "category": "Fashion"
+      },
+      {
+        "id": 3,
+        "title": "Product 3",
+        "description": "Vestibulum quis quam vel ex rutrum elementum. Cras feugiat nulla in euismod fringilla.",
+        "price": 12.49,
+        "image": "images/cat2.jpg",
+        "category": "Home & Kitchen"
+      },
+      {
+        "id": 4,
+        "title": "Product ggjjhjhkhkhjkk4",
+        "description": "Donec eget dui in nisi dignissim efficitur in a nunc. Proin eleifend fermentum odio, in lacinia ipsum finibus nec.",
+        "price": 39.95,
+        "image": "images/cat1.jpg",
+        "category": "Beauty"
+      },
+      {
+        "id": 5,
+        "title": "Product 5",
+        "description": "Quisque congue eros ac pharetra finibus. Fusce vulputate nibh nec ex ullamcorper blandit.",
+        "price": 9.99,
+        "image": "images/cat2.jpg",
+        "category": "Sports & Outdoors"
+      }
+      ,
+      {
+        "id": 6,
+        "title": "Product 5",
+        "description": "Quisque congue eros ac pharetra finibus. Fusce vulputate nibh nec ex ullamcorper blandit.",
+        "price": 9.99,
+        "image": "images/cat2.jpg",
+        "category": "Sports & Outdoors"
+      }
+      ,
+      {
+        "id": 7,
+        "title": "Product 5",
+        "description": "Quisque congue eros ac pharetra finibus. Fusce vulputate nibh nec ex ullamcorper blandit.",
+        "price": 9.99,
+        "image": "images/cat2.jpg",
+        "category": "Sports & Outdoors"
+      },
+      {
+        "id": 8,
+        "title": "Product 5",
+        "description": "Quisque congue eros ac pharetra finibus. Fusce vulputate nibh nec ex ullamcorper blandit.",
+        "price": 9.99,
+        "image": "images/cat2.jpg",
+        "category": "Sports & Outdoors"
+      },
+      {
+        "id": 9,
+        "title": "Product 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod nunc ut magna tincidunt, vel tincidunt quam volutpat.",
+        "price": 34000,
+        "image": "images/cat2.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 10,
+        "title": "Product 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod nunc ut magna tincidunt, vel tincidunt quam volutpat.",
+        "price": 34000,
+        "image": "images/cat2.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 11,
+        "title": "Product 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod nunc ut magna tincidunt, vel tincidunt quam volutpat.",
+        "price": 34000,
+        "image": "images/cat2.jpg",
+        "category": "Electronics"
+      },
+      {
+        "id": 12,
+        "title": "Product 3",
+        "description": "Vestibulum quis quam vel ex rutrum elementum. Cras feugiat nulla in euismod fringilla.",
+        "price": 12.49,
+        "image": "images/cat2.jpg",
+        "category": "Home & Kitchen"
+      }, 
+      {
+        "id": 13,
+        "title": "Product 3",
+        "description": "Vestibulum quis quam vel ex rutrum elementum. Cras feugiat nulla in euismod fringilla.",
+        "price": 12.49,
+        "image": "images/cat2.jpg",
+        "category": "Home & Kitchen"
+      },
+      {
+        "id": 14,
+        "title": "Product 3",
+        "description": "Vestibulum quis quam vel ex rutrum elementum. Cras feugiat nulla in euismod fringilla.",
+        "price": 12.49,
+        "image": "images/cat2.jpg",
+        "category": "Home & Kitchen"
+      }
+
+    ]
+  }
+  
