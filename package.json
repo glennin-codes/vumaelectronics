@@ -24,6 +24,7 @@
     "@sanity/client": "^3.2.0",
     "@sanity/image-url": "^1.0.1",
     "@sendgrid/mail": "^7.7.0",
+    "@splidejs/react-splide": "^0.7.12",
     "@splidejs/splide": "^4.1.4",
     "axios": "^1.4.0",
     "framer-motion": "^10.15.1",
